@@ -1,0 +1,1 @@
+List(5).foreach(println)
